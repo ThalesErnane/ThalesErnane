@@ -15,3 +15,6 @@ Here are some ideas to get you started:
 -->
 
 ![Thales Ernane GitHub stats](https://github-readme-stats.vercel.app/api?username=ThalesErnane&theme=gotham&show_icons=true)
+
+
+[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=ThalesErnane&repo=github-readme-stats)](https://github.com/anuraghazra/github-readme-stats)
