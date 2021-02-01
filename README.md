@@ -20,5 +20,3 @@ Here are some ideas to get you started:
 [![Thales Ernane Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=ThalesErnane&layout=compact&theme=gotham&show_icons=true)](https://github.com/ThalesErnane)
 
 
-[![Thales Ernane wakatime stats](https://github-readme-stats.vercel.app/api/wakatime?username=ThalesErnane)](https://github.com/ThalesErnane)
-
