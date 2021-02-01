@@ -14,4 +14,4 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...
 -->
 
-![Thales Ernane GitHub stats](https://github-readme-stats.vercel.app/api?username=ThalesErnane&show_icons=true&theme=radical)
+![Thales Ernane GitHub stats](https://github-readme-stats.vercel.app/api?username=ThalesErnane&theme=gotham&show_icons=true)
