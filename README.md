@@ -17,4 +17,4 @@ Here are some ideas to get you started:
 ![Thales Ernane GitHub stats](https://github-readme-stats.vercel.app/api?username=ThalesErnane&theme=gotham&show_icons=true)
 
 
-[! [ThalesErnane Readme Card] (https://github-readme-stats.vercel.app/api/pin/ ? Username = ThalesErnane & repo = github-readme-stats )] (https://github.com/ThalesErnane)
+![Thales Ernane Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=ThalesErnane&layout=compact)](https://github.com/ThalesErnane/github-readme-stats)
