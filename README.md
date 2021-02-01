@@ -17,4 +17,4 @@ Here are some ideas to get you started:
 ![Thales Ernane GitHub stats](https://github-readme-stats.vercel.app/api?username=ThalesErnane&theme=gotham&show_icons=true)
 
 
-![Thales Ernane  Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=ThalesErnane&repo=github-readme-stats)](https://github.com/ThalesErnane/github-readme-stats)
+[! [Cartão Leiame] (https://github-readme-stats.vercel.app/api/pin/ ? Username = ThalesErnane & repo = https://github.com/ThalesErnane )] (https://github.com/ThalesErnane/github- readme-stats)
