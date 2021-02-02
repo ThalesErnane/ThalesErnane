@@ -1,4 +1,4 @@
-### Hi there 👋
+### Hi there 👋, I´m Thales Ernane de S.
 
 <!--
 **ThalesErnane/ThalesErnane** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
