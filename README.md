@@ -14,6 +14,8 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...
 -->
 
+<p align="left"> <img src="https://komarev.com/ghpvc/?username=ThalesErnane&label=Profile%20views&color=0e75b6&style=flat" alt="ThalesErnane" /> </p>
+
 ![Thales Ernane GitHub stats](https://github-readme-stats.vercel.app/api?username=ThalesErnane&theme=gotham&show_icons=true)
 
 
