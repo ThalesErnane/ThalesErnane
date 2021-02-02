@@ -21,3 +21,6 @@ Here are some ideas to get you started:
 
 [![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=ThalesErnane&repo=dyn-qrcode)](https://github.com/ThalesErnane/dyn-qrcode)
 
+
+[![Readme Card](https://dyn-qrcode-dusky.vercel.app/api?url=https%3A%2F%2Fthales_ernane.dev)
+
