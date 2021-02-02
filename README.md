@@ -24,7 +24,7 @@ Here are some ideas to get you started:
 [![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=ThalesErnane&repo=dyn-qrcode)](https://github.com/ThalesErnane/dyn-qrcode)
 
 
-[![My website](https://dyn-qrcode-dusky.vercel.app/api?url=https%3A%2F%2Fthales_ernane.dev)](https://thales_ernane.dev)
+[![My website](https://dyn-qrcode-dusky.vercel.app/api?url=https%3A%2F%2Fthales_ernane.dev)](https://thalesernane.github.io)
 
 :briefcase:
 
