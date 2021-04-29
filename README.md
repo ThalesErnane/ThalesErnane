@@ -21,9 +21,6 @@ Here are some ideas to get you started:
 
 [![Thales Ernane Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=ThalesErnane&layout=compact&theme=gotham&show_icons=true)](https://github.com/ThalesErnane)
 
-[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=ThalesErnane&repo=dyn-qrcode)](https://github.com/ThalesErnane/dyn-qrcode)
-
-
 [![My website](https://dyn-qrcode-dusky.vercel.app/api?url=https%3A%2F%2Fthales_ernane.dev)](https://thalesernane.github.io)
 
 :briefcase:
